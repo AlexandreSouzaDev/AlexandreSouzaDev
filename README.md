@@ -1,7 +1,7 @@
 - 👋 Oi, meu nome é Alexandre de Souza Moreira
 - 👀 Atualmente trabalho com Front-End!
-- 🌱 A linguagem que mais uso e JavaScript!
-- 📫 Contato: 027995825797 ==> Email:Kratos0500@gmail.com
+- 🌱 As linguagens que mais uso são JavaScript e php!
+- 📫 Contato: 027996889202 ==> Email:Kratos0500@gmail.com
 
 <div align="center">
   <a href="https://github.com/XANDRAO"/>
