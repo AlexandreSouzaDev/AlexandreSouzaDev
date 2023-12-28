@@ -1,7 +1,7 @@
 - 👋 Oi, meu nome é Alexandre de Souza Moreira
-- 👀 Atualmente trabalho com Front-End!
-- 🌱 As linguagens que mais uso são JavaScript e php!
-- 📫 Contato: 027996889202 ==> Email:Kratos0500@gmail.com
+- 👀 Atualmente trabalho como Full Stack na Digital2b com foco no back-end
+- 💻 As linguagens que mais uso são JavaScript e php!
+- 📫 Contato profissional: 027996889202 ==> alexandresouzamoreiradev@gmail.com
 
 <div align="center">
   <a href="https://github.com/XANDRAO"/>
