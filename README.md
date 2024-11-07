@@ -1,5 +1,5 @@
 👋 Oi, meu nome é Alexandre de Souza Moreira
-👀 Atualmente trabalho como Full Stack na Digital2b com foco no back-end
+👀 Atualmente trabalho como Full Stack com foco no back-end
 💻 As linguagens que mais uso são JavaScript e PHP!
 📫 Contato profissional: 027996889202 ==> alexandresouzamoreiradev@gmail.com
 
