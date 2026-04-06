@@ -99,6 +99,4 @@
   🕷️  Seja bem-vindo ao meu perfil, vizinho!  🕷️
 ```
  
-![Visitor Count](https://profile-counter.glitch.me/AlexandreSouzaDev/count.svg)
- 
 </div>
