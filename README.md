@@ -70,10 +70,6 @@
  
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreSouzaDev&show_icons=true&count_private=true&hide_border=true&title_color=e8192c&icon_color=e8192c&text_color=c9d1d9&bg_color=0d1117)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSouzaDev&layout=compact&hide_border=true&title_color=e8192c&text_color=c9d1d9&bg_color=0d1117)
- 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreSouzaDev&theme=dark&hide_border=true&ring=e8192c&fire=e8192c&currStreakLabel=e8192c&background=0D1117)
  
 </div>
@@ -84,7 +80,7 @@
  
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alexandredev7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alexandredev07/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/xand1.7/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandreSouzaDev)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alexandresouzamoreiradev@gmail.com)
